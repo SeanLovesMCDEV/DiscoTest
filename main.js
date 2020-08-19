@@ -301,7 +301,7 @@ client.on('message', message => {
 
 
 
-client.login('NzQ0NTAzNjI2MzgyMTgwMzky.XzkLCA.pJDnavp77jGuq3mtz3r-TMu6jFY');
+client.login('NzQ1Njg1NDc2NzA2NjE1MzUw.Xz1Xtw.pZBhWHnLx2aYVeBYKfwY-6lPbHE');
 
 
 
